@@ -1,3 +1,7 @@
+# IMPORTANT INFORMATION
+
+Original project available at https://gitlab.imt-atlantique.fr/sotern-public/neat
+
 # A Nile-English Aligned Translation dataset
 
 This repository contains a synthetically generated dataset to train a Natural Language translator model from or into [Nile] statements for Intent-based Networks ([IBN]) systems. The intents are expressed using the Nile syntax, and the natural language translation are written in English.
